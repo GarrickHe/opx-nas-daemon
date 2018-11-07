@@ -1,6 +1,6 @@
 opx-nas-daemon (2.2.0+opx5) unstable; urgency=medium
 
-  * Modify dn_rules.sh to re-enable NFLOG for ARP request
+  * Update: Modify dn_rules.sh to re-enable NFLOG for ARP request
 
  -- Dell EMC <ops-dev@lists.openswitch.net>  Tue, 06 Nov 2018  11:36:00 -0800
 
